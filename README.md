@@ -1,4 +1,4 @@
-Queue Simulation Bank in C
+#Queue Simulation Bank in C
 
 A simple and clear simulation of a bank customer queue using a Circular Queue in C.
 The project models how customers arrive, wait, and get served in a FIFO (First-In-First-Out) manner—just like a real bank.
@@ -123,4 +123,4 @@ Arya College of Engineering and IT, Jaipur
 - Head of Department
 - Information Technology
 
-*College Name:* Arya College of Engineering And IT, Jaipur
+*College Name:* Arya College of Engineering and IT, Jaipur
