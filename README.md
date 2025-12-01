@@ -117,9 +117,6 @@ Arya College of Engineering and IT, Jaipur
 
 🧑‍🏫 Submitted To:
 
-Dr. Vibhakar Pathak
-Head of Department (Information Technology)
-Arya College of Engineering and IT, Jaipur
 
 *Submitted to:*
 - Vibhakar Pathak
