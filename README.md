@@ -118,7 +118,7 @@ Arya College of Engineering and IT, Jaipur
 🧑‍🏫 Submitted To:
 
 
-*Submitted to:*
+
 - Vibhakar Pathak
 - Head of Department
 - Information Technology
